@@ -1,0 +1,227 @@
+.adj{
+    background-size:contain;
+    height: 50%;
+}
+h1{
+    font-size: 50px;
+    text-shadow: 4px wheat;
+    text-rendering:20px; 
+    font-family:sans-serif;
+}
+.xyz{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-stretch: 2px;
+    text-decoration: underline;
+    color:gainsboro;
+}
+.ysa{
+    background-color: black;
+    margin: 20px center;
+    padding: 70px 60px 70px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+}
+.abe{
+    background-color:dimgrey;
+    box-shadow: 0px 0px 50px 50px rgb(0,65,60,0.95);
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    text-decoration: underline;
+}
+.trg{
+    font-family: Open Sans;
+    font-size:20px;
+    color: aliceblue;
+}
+.trg:hover{
+    text-decoration: none;
+    color: grey;
+    transition: 0.5s;
+}
+.gds{
+    width:100px;
+    height: 50px;
+    color: white;
+    padding-right: 10px;
+    font-size: 18px;
+    border :none;
+    margin-left:  20px; 
+    margin-right: 20px;
+    background: transparent;
+    font-family: 'Arvo';
+}
+.xyz{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-stretch: 2px;
+    text-decoration: underline;
+    color:gainsboro;
+}
+.gds:hover{
+    text-decoration: none;
+    transition: 0.5s;
+    color: grey;
+    background: transparent;
+}
+.gds:active{
+    color: grey;
+    background: transparent;
+}
+.gds:focus{
+    color: grey;
+    background: transparent;
+}
+  .hds{
+      cursor: pointer;
+      color: darkblue;
+  }
+
+.gdh{
+    background-color: black;
+    color: white;
+}
+
+.udg{
+    padding: 15px;
+    color: #fff;
+    background:black;
+	background-size: 400% 400%;
+    font-family:Open Sans ;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+footer{
+    background-image: url("D:\new online.com\elements\footer.jpg");
+    background-size: cover;
+}
+.fgd{
+    border-radius: 10px;
+    border: 5px black solid;
+    margin-left:10px;
+    display: block;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    padding: 4% 2% 4% 2%;
+    background-image: url(D:\wallpaper\45f5d09bbf47aa81da0156929a6bb141.png);
+    position: relative;
+    text-align: center;
+    
+}
+.fss{
+    color: white;
+    font-size: 20px;
+    font-family: Open Sans;
+    margin-top: 3%;
+    font-weight: 300;
+}
+.add{
+    border: 2px solid slategrey;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+}
+.fgu{
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.fsd {
+    border-left: 1px solid slategray;
+    height:200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  }
+  .gda{
+      background-image: url("D:/new online.com/elements/footer.jpg");
+      background-size: cover;
+  }
+  .dfs{
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(16, 197, 197),white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: auto;
+    font-family: Bowlby One SC;
+  }
+.button-57 {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #18181a;
+  color: #18181a;
+  display: inline-block;
+  font-size: 15px;
+  line-height: 15px;
+  padding: 18px 18px 17px;
+  text-decoration: none;
+  cursor: pointer;
+  background: #fff;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-57 span:first-child {
+  position: relative;
+  transition: color 600ms cubic-bezier(0.48, 0, 0.12, 1);
+  z-index: 10;
+}
+
+.button-57 span:last-child {
+  color: white;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  transition: all 500ms cubic-bezier(0.48, 0, 0.12, 1);
+  z-index: 100;
+  opacity: 0;
+  top: 50%;
+  left: 50%;
+  transform: translateY(225%) translateX(-50%);
+  height: 14px;
+  line-height: 13px;
+}
+
+.button-57:after {
+  content: "";
+  position: absolute;
+  bottom: -50%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  transform-origin: bottom center;
+  transition: transform 600ms cubic-bezier(0.48, 0, 0.12, 1);
+  transform: skewY(9.3deg) scaleY(0);
+  z-index: 50;
+}
+
+.button-57:hover:after {
+  transform-origin: bottom center;
+  transform: skewY(9.3deg) scaleY(2);
+}
+
+.button-57:hover span:last-child {
+  transform: translateX(-50%) translateY(-100%);
+  opacity: 1;
+  transition: all 900ms cubic-bezier(0.48, 0, 0.12, 1);
+}

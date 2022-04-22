@@ -1,0 +1,96 @@
+.abe{
+    background-color:dimgrey;
+    box-shadow: 0px 0px 50px 50px rgb(0,65,60,0.95);
+}
+.udg{
+    padding: 15px;
+    color: #fff;
+    background:black;
+	background-size: 400% 400%;
+    font-family:Open Sans ;
+}
+.gds{
+    width:100px;
+    height: 50px;
+    color: white;
+    padding-right: 10px;
+    font-size: 18px;
+    border :none;
+    margin-left:  20px; 
+    margin-right: 20px;
+    background: transparent;
+    font-family: 'Arvo';
+}
+.gds:hover{
+    text-decoration: none;
+    transition: 0.5s;
+    color: grey;
+    background: transparent;
+}
+.gds:active{
+    color: grey;
+    background: transparent;
+}
+.gds:focus{
+    color: grey;
+    background: transparent;
+}
+.ysa{
+    background-color: black;
+    margin: 20px center;
+    padding: 70px 60px 70px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+}
+.trg{
+    font-family: 'Arvo';
+    font-size:20px;
+    color: aliceblue;
+}
+.trg:hover{
+    text-decoration: none;
+    color: grey;
+    transition: 0.5s;
+}
+.sfs{
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(234, 25, 88),white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: auto;
+    font-family: Bowlby One SC;
+    text-align: center;
+}
+.rvs{
+    background-color:rgba(49, 45, 45, 0.895);
+    border:lightgray;
+    border-radius: 2px;
+}
+label{
+    color:#fff;
+    padding-left:5px;
+}
+input{
+    width:100%;
+    background-color:lightslategrey ;
+    width: 100%;
+}
+.cds{
+    width: 100%;
+    padding:10px;
+    display: block;
+}
+.fsf{
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin-bottom: 10px;
+}
+.fsf:hover{
+    background-color: darkgray;
+    color:black;
+    transition: 0.5s;
+    
+
+}
