@@ -1,0 +1,111 @@
+.abe{
+    background-color:dimgrey;
+    box-shadow: 0px 0px 50px 50px rgb(0,65,60,0.95);
+}
+.gds{
+    width:100px;
+    height: 50px;
+    color: white;
+    padding-right: 10px;
+    font-size: 18px;
+    border :none;
+    margin-left:  20px; 
+    margin-right: 20px;
+    background: transparent;
+    font-family: 'Arvo';
+}
+.gds:hover{
+    text-decoration: none;
+    transition: 0.5s;
+    color: grey;
+    background: transparent;
+}
+.hfh{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  .hfh:hover{
+    color:rgb(209, 191, 191);
+    text-decoration: dotted;
+    transition: 0.5s ease;
+  }
+.gds:active{
+    color: grey;
+    background: transparent;
+}
+.gds:focus{
+    color: grey;
+    background: transparent;
+}
+.udg{
+    padding: 15px;
+    color: #fff;
+    background:black;
+	background-size: 400% 400%;
+    font-family:Open Sans ;
+}
+.ysa{
+    background-color: black;
+    margin: 20px center;
+    padding: 70px 60px 70px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+}
+.trg{
+    font-family: 'Arvo';
+    font-size:20px;
+    color: aliceblue;
+}
+.trg:hover{
+    text-decoration: none;
+    color: grey;
+    transition: 0.5s;
+}
+.sfs{
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(84, 67, 69),white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: auto;
+    font-family: Bowlby One SC;
+    text-align: center;
+}
+.dad{
+    font-family: Open Sans;
+    font-size:25px;
+    font-weight: 500;
+    margin-top: 150px;
+}
+.gda{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(15, 11, 11, 0.829);
+    color:aliceblue;
+}
+.fdg{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.search{
+    margin-top: 10px;
+    width:80%;
+    border: solid rgb(248, 243, 243) 2px;
+    background-color: #222;
+    box-sizing: border-box;
+    height: 50px;
+    margin-bottom: auto;
+    margin-top: auto;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+  }
+  .owo{
+    margin-top: 10px;
+    width: 10%;
+    border: solid rgba(39, 20, 20, 0.303) 2px;
+    height: 50px;
+    background-color:floralwhite;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius:50px ;
+    font-size:15px;
+  }
